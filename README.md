@@ -16,4 +16,20 @@ LANGKAH LANGKAH PRAKTIKUM
 5. Mencari data, dengan cara memasukan NIM yang akan di cari.
 6. Else Blok kode dibawah else akan dijalankan jika semua kondisi dalam if dan elif sebelumnya bernilai False.
 
-# PRAKTIKUM 
+# LATIHAN  
+![gambar](lat5(1).png) 
+
+![gambar](lat5(2).png)
+
+![gambar](lat5(3).png)
+
+# PRAKTIKUM
+![gambar](prak5(1).png)
+
+![gambar](prak5(2).png)
+
+![gambar](prak5(3).png)
+
+![gambar](prak5(4).png)
+
+![gambar](prak5(5).png)
