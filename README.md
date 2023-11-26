@@ -33,3 +33,6 @@ LANGKAH LANGKAH PRAKTIKUM
 ![gambar](prak5(4).png)
 
 ![gambar](prak5(5).png)
+
+# FLOWCHART
+![gambar}(flowchart.png) 
