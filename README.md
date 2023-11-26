@@ -35,4 +35,4 @@ LANGKAH LANGKAH PRAKTIKUM
 ![gambar](prak5(5).png)
 
 # FLOWCHART
-![gambar}(flowchart.png) 
+![gambar](flowchart.png) 
